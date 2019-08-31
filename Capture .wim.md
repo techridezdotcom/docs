@@ -36,7 +36,7 @@ dism /export-image /SourceImageFile:install.esd /SourceIndex:2 /DestinationImage
 <p><img src="https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image2.png" alt="Second image"></p>
 
 
-https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image2.png
+
 Export the image to a WIM file
 
 You now have an install.wim file alongside the install.esd.
