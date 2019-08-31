@@ -19,11 +19,11 @@ Open Command Prompt as Administrator (Windows Key + X -> Command Prompt (Admin))
 Change directory to the working directory (cd c:\Win10USB).
 Show the available images within the install.esd file.
 dism /Get-WimInfo /WimFile:install.esd
-<p><img src="http://f.cl.ly/items/3x263V3n1L1D2J393624/iMac.png" alt="LockMyMac"></p>
+<p><img src="https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image1.png" alt="First image"></p>
 
-<img src="http://f.cl.ly//iMac.png">
 
-https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image1.png
+
+
 
 
 
