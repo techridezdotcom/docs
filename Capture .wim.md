@@ -19,7 +19,7 @@ Open Command Prompt as Administrator (Windows Key + X -> Command Prompt (Admin))
 Change directory to the working directory (cd c:\Win10USB).
 Show the available images within the install.esd file.
 dism /Get-WimInfo /WimFile:install.esd
-
+https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image1.png
 Show the available images within the install.esd file
 
 Determine the Index number to modify (in this example we are modifying Index 2)
