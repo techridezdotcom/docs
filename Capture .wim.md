@@ -27,12 +27,16 @@ dism /Get-WimInfo /WimFile:install.esd
 
 
 
+
 Show the available images within the install.esd file
 
 Determine the Index number to modify (in this example we are modifying Index 2)
 Export the image to a WIM file.
 dism /export-image /SourceImageFile:install.esd /SourceIndex:2 /DestinationImageFile:install.wim /Compress:max /CheckIntegrity
+<p><img src="https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image2.png" alt="Second image"></p>
 
+
+https://raw.githubusercontent.com/techridezdotcom/docs/master/23992_image2.png
 Export the image to a WIM file
 
 You now have an install.wim file alongside the install.esd.
